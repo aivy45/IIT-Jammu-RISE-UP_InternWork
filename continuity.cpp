@@ -20,9 +20,6 @@ void solveContinuityEquation(vector<double> &density, double velocity, double dt
 
         // Assign the updated density values back to the original vector
         density = newDensity;
-        int c = 1;
-        cout << c << endl;
-        c++;
     }
 }
 
