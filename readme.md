@@ -45,12 +45,12 @@
 
   - ρc_p [ ∂(T)/∂t+ u∂(T)/∂x ]= -P ∂(u)/∂x +∂/∂x(k\*∂(T)/∂x) + q
 
-    -     ρ:        Density of the material
-    -     Cp:      Specific heat capacity of the material
-    -     T:        Temperature of the material
-    -     t:         Time
+    - ρ: Density of the material
+    - Cp: Specific heat capacity of the material
+    - T: Temperature of the material
+    - t: Time
     - u: Velocity of the fluid (in the x-direction)
     - x: Spatial coordinate (in the x-direction)
-    -     P:       Pressure gradient in the x-direction
+    - P: Pressure gradient in the x-direction
     - k: Thermal conductivity of the material
     - q: Heat source term
